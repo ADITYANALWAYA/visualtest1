@@ -11,6 +11,7 @@ namespace CsharpConsoleApplication
         static void Main(string[] args)
         {
             Console.WriteLine("This is my first TeamCity demo");
+            Console.WriteLine("This is the second line");
             Console.ReadKey();
         }
     }
