@@ -1,0 +1,6 @@
+c:\users\aditya_nalwaya\documents\visual studio 2013\Projects\CsharpConsoleApplication\CsharpConsoleApplication\bin\Debug\CsharpConsoleApplication.exe.config
+C:\Users\aditya_nalwaya\Documents\Visual Studio 2013\Projects\CsharpConsoleApplication\CsharpConsoleApplication\bin\Debug\CsharpConsoleApplication.exe
+C:\Users\aditya_nalwaya\Documents\Visual Studio 2013\Projects\CsharpConsoleApplication\CsharpConsoleApplication\bin\Debug\CsharpConsoleApplication.pdb
+C:\Users\aditya_nalwaya\Documents\Visual Studio 2013\Projects\CsharpConsoleApplication\CsharpConsoleApplication\obj\Debug\CsharpConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\aditya_nalwaya\Documents\Visual Studio 2013\Projects\CsharpConsoleApplication\CsharpConsoleApplication\obj\Debug\CsharpConsoleApplication.exe
+C:\Users\aditya_nalwaya\Documents\Visual Studio 2013\Projects\CsharpConsoleApplication\CsharpConsoleApplication\obj\Debug\CsharpConsoleApplication.pdb
